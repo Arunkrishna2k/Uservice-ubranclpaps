@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SchoolProject</string>
+    <string name="header_title">header_title</string>
+    <string name="discount">Discount</string>
+    <string name="pay">Payment</string>
+    <string name="proceed">Proceed</string>
+    <string name="category">Category</string>
+    <string name="subcategory">SubCategory</string>
+    <string name="products">Products</string>
+</resources>
