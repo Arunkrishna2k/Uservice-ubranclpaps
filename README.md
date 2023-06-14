@@ -73,7 +73,14 @@ Frontend:
 
 Use Android Studio: You can use Android Studio to develop the frontend of your app. You can create activities and layouts for user registration and login order registration and login, order request, order acceptance and rejection, order cancellation, and order completion. You can also implement the necessary APIs to communicate with the backend.
 
-===========<--------------------------STEPS------------------------------------>===========================
+===========<--------------------------STEPS------------------------------------>==============
+
+
+
+
+
+
+
 Start XAMPP: Launch XAMPP and start the MySQL and Apache servers.
 
 Open Command Prompt: Open the Command Prompt and retrieve the IPv4 address of your system using the command ipconfig.
