@@ -55,20 +55,25 @@ Composer setup - Composer is a dependency manager for PHP. It allows you to decl
 Note that you may also need to install additional software depending on the specific requirements of your project. For example, if you plan to use a specific PHP framework, you will need to install it as well. Additionally, you may need to install a database management tool such as phpMyAdmin to manage your MySQL databases within XAMPP.
 
 
-HARDWARE REQURIMENT
 
 
 
 Backend:
+
+
+
 Start XAMPP:  To start the Apache server and the MySQL database, you can open the XAMPP control panel and click on the "Start" button for Apache and MySQL.
 Create database and tables: Using phpMyAdmin, you can create a database for your app and define the necessary tables for storing user data, driver data, ride requests, and ride history. You can also define the relationships between these tables using foreign keys.
 Implement PHP API: Using PHP, you can implement the necessary APIs for your app, such as user registration and login, driver registration and login, ride request, ride acceptance and rejection, ride cancellation, and ride completion. You can use the Laravel framework to make the development process easier. You can start the server using the command "php artisan serve --host [ip address]".
 
 Frontend:
 
+
+
+
 Use Android Studio: You can use Android Studio to develop the frontend of your app. You can create activities and layouts for user registration and login order registration and login, order request, order acceptance and rejection, order cancellation, and order completion. You can also implement the necessary APIs to communicate with the backend.
 
-<!-- STEPS>
+===========<--------------------------STEPS------------------------------------>===========================
 Start XAMPP: Launch XAMPP and start the MySQL and Apache servers.
 
 Open Command Prompt: Open the Command Prompt and retrieve the IPv4 address of your system using the command ipconfig.
@@ -112,6 +117,5 @@ Order Placement: After successful OTP verification, show a confirmation message 
 Dealer Receives Order: Explain that the dealer receives the order details in the backend service.
 
 
- -->
 
 
